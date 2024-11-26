@@ -1,0 +1,6 @@
+{
+	"name": "instance-watcher",
+	"tree": {
+		"$path": "out"
+	}
+}
